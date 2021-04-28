@@ -1,6 +1,6 @@
 // require the discord.js module
 const Discord = require('discord.js');
-const token = "ODIwMDI2MDg2NDYwODgzMDQ3.YEvKzg.FuLMyYzd5uEr2Kd6HGNJCx4w-X0";
+const token = "INSERT TOKEN HERE";
 
 // create a new Discord client
 const client = new Discord.Client();
